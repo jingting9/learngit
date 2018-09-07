@@ -1,10 +1,11 @@
 Command line instructions
 
+
 Git global setup
 git config --global user.name "刘婧婷"
 git config --global user.email "liujingting@corp.netease.com"
 
-Create a new repository
+# Create a new repository
 git clone ssh://git@g.hz.netease.com:22222/matting/deeplab_v3plus.git
 cd deeplab_v3plus
 touch README.md
